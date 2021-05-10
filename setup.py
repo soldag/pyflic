@@ -6,7 +6,7 @@ with open('README.md', 'r') as f:
 
 
 setup(name='pyflic',
-      version='2.0.1',
+      version='2.0.3',
       description='Python library to connect to and interact with Flic buttons.',
       long_description=long_description,
       long_description_content_type='text/markdown',
