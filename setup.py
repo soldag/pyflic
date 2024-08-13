@@ -13,6 +13,5 @@ setup(name='pyflic',
       author='soldag',
       author_email='soeren_oldag@freenet.de',
       url='https://github.com/soldag/pyflic',
-      license='CC0 1.0 Universal',
-      packages=find_packages(),
-     )
+      license='MIT',
+      packages=find_packages())
